@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-https://img.shields.io/badge/Hello-My%20Name%20Is%20Adam-brightgreen
+![GitHub followers](https://img.shields.io/github/followers/solopaw?color=blue&label=Follow&logoColor=green)
 You can use the [editor on GitHub](https://github.com/solopaw/Rainbow/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
